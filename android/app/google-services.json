@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "212127528539",
+    "firebase_url": "https://fg-admin.firebaseio.com",
+    "project_id": "fg-admin",
+    "storage_bucket": "fg-admin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:212127528539:android:ffc28d2af9064e3585717e",
+        "android_client_info": {
+          "package_name": "com.example.fg_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "212127528539-g5tcgup8s90bummlf776sk3s7fl3a0is.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXuNF4ly32L0JQesitNIA5JBhG218NNak"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "212127528539-g5tcgup8s90bummlf776sk3s7fl3a0is.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
